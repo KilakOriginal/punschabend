@@ -16,4 +16,3 @@ git pull origin main
 # Sync only the /web directory contents to the /var/www/html
 rsync -av --delete "$REPO_DIR/web/" "$DEPLOY_DIR/"
 
-echo "Deployment completed at $(date)"
