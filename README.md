@@ -1,0 +1,1 @@
+This is a repository for the Punschabend website of the Fachschaftsvertretung Ingenieurswissenschaften (Kiel University).
